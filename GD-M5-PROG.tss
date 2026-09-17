@@ -2,15 +2,10 @@
 <ArrayOfArrayOfArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ArrayOfArrayOfString>
     <ArrayOfString>
-      <string>C:\Users\Samantha\Documents\MediaCollegeGitHub\M5\GD-M5-PROG\Assets\Scrips\PROG_Les1.cs</string>
+      <string>C:\Users\Samantha\Documents\MediaCollegeGitHub\M5\GD-M5-PROG\Assets\Scrips\PROG_Les2\Scoreboard.cs</string>
     </ArrayOfString>
     <ArrayOfString>
-      <string>C:\Users\Samantha\Documents\MediaCollegeGitHub\M5\GD-M5-PROG\Assets\Scrips\TowerSpawner.cs</string>
-    </ArrayOfString>
-  </ArrayOfArrayOfString>
-  <ArrayOfArrayOfString>
-    <ArrayOfString>
-      <string>C:\Users\Samantha\Documents\MediaCollegeGitHub\M5\GD-M5-PROG\Assets\Scrips\TowerScaler.cs</string>
+      <string>C:\Users\Samantha\Documents\MediaCollegeGitHub\M5\GD-M5-PROG\Assets\Scrips\PROG_Les2\Movement.cs</string>
     </ArrayOfString>
   </ArrayOfArrayOfString>
 </ArrayOfArrayOfArrayOfString>
