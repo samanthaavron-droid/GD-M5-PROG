@@ -2,5 +2,5 @@ The following gif shows a [turret](https://github.com/samanthaavron-droid/Tower-
 
 
 
-!\[optimization](Animation.gif)
+![optimization](Animation.gif)
 
