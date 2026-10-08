@@ -1,2 +1,2 @@
-The following screenshot has a breakpoint !\[breakpoint](image.png)
+The following screenshot has a breakpoint ![breakpoint](image.png)
 
