@@ -7,3 +7,5 @@ PROG 03 - Debugging: [task](Assets/readmes/les3/PROG_Les3.md)
 PROG 04 - SRP: [task](Assets/readmes/les4/PROG_Les4.md)
 
 PROG 05 - Inherritance: [the same files as task 4](Assets/readmes/les4/PROG_Les4.md)
+
+PROG 06 - Encapsulation: [task](Assets/readmes/les6/PROG_Les6.md)
